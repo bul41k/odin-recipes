@@ -15,8 +15,9 @@ This project does not use CSS and focuses only on basic HTML structure.
 
 ---
 
-## Image Credits
+## Credits
 
+- Recipes adapted from [Allrecipes](https://www.allrecipes.com/)  
 - Images from [Pixabay](https://pixabay.com)  
 - Images from [Freepik](https://freepik.com)  
 
